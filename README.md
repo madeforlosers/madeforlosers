@@ -1,6 +1,6 @@
 #  madeforlosers
 
-I'm a 14 year old (almost 15!!) that likes to code. mostly in [replit](https://replit.com/madeforlosers)  
+I'm a 15 year old that likes to code. mostly in [replit](https://replit.com/madeforlosers)  
 
 check out [my website](https://nespectio.glitch.me)
 
