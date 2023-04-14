@@ -2,6 +2,8 @@
 
 I'm a 15 year old that likes to code. mostly in [replit](https://replit.com/madeforlosers)  
 
+I'm non binary, he/they pls
+
 check out [my website](https://nespectio.glitch.me)
 
 or if you like 90s webpages then visit [my alternate site](https://madeforlosers.repl.co)
