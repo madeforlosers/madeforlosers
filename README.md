@@ -22,5 +22,8 @@ or if you like 90s webpages then visit [my alternate site](https://madeforlosers
 - I live on saturn
 - I have a habit of using the weirdest formatting (github users HATE ME!!)
 
+## friends
+you should check out these people:
 
-## I plan on making this look good later 
+- [jumbledFox](https://github.com/jumbledFox) cool fox that makes cool stuff
+- [blockyheadman](https://github.com/blockyheadman) robot dude 
