@@ -2,7 +2,7 @@
 
 I'm a 15 year old that likes to code. mostly in [replit](https://replit.com/madeforlosers)  
 
-I'm non binary, he/they pls
+I'm non binary, he/they 
 
 check out [my website](https://nespectio.glitch.me)
 
