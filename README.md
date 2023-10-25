@@ -21,7 +21,7 @@ you should check out these people:
 - [blockyheadman](https://github.com/blockyheadman) robot dude 
 
 
-## projects i did
+## projects i did / was apart of / helped in
 
 - "james music" (artist) - creator
 - My Body Not Yours (comic) - creator 
