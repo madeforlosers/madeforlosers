@@ -28,7 +28,7 @@ you should check out these people:
 - Archoo (discord bot) - creator
 - Pandora's Mario Paint Box (clone of pandora's box) - creator
 - Yen (a small animated series on an indefinite hold) - co-creator, voice actor, character designer, scriptwriter
-- [this specific part of the curby show where i voice acted a character](https://youtu.be/5weRTV2i28c?si=qmlB8AKRBWeNJmkg&t=200)
+- [this specific part of the curby show where i voiced a character](https://youtu.be/5weRTV2i28c?si=qmlB8AKRBWeNJmkg&t=200)
 - [KamTape (old youtube revival)](https://www.kamtape.com/) - beta tester
 - [siliconetemper (artist)](https://soundcloud.com/siliconetemper) - creator
 - [esofur (programming language)](https://github.com/TaserTheFox/EsoFur-Interpreter) - contributer
