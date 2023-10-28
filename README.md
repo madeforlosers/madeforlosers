@@ -21,15 +21,18 @@ you should check out these people:
 - [blockyheadman](https://github.com/blockyheadman) robot dude 
 
 
-## projects i did / was apart of / helped in
+## projects i did
 
-- "james music" (artist) - creator
-- My Body Not Yours (comic) - creator 
-- Archoo (discord bot) - creator
+- "james music" (artist) 
+- My Body Not Yours (comic) 
+- Archoo (discord bot)
+- [james games](https://www.youtube.com/@madeforlosers/) 
+- [siliconetemper (artist)](https://soundcloud.com/siliconetemper) (along with a friend)
 - Pandora's Mario Paint Box (clone of pandora's box) - creator
+
+
+## projects i was apart of / helped in
 - Yen (a small animated series on an indefinite hold) - co-creator, voice actor, character designer, scriptwriter
 - [this specific part of the curby show where i voiced a character](https://youtu.be/5weRTV2i28c?si=qmlB8AKRBWeNJmkg&t=200)
 - [KamTape (old youtube revival)](https://www.kamtape.com/) - beta tester
-- [siliconetemper (artist)](https://soundcloud.com/siliconetemper) - creator
 - [esofur (programming language)](https://github.com/TaserTheFox/EsoFur-Interpreter) - contributer
-- [james games](https://www.youtube.com/@madeforlosers/) - creator and only person in the project
