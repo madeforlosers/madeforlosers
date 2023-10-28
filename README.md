@@ -32,3 +32,4 @@ you should check out these people:
 - [KamTape (old youtube revival)](https://www.kamtape.com/) - beta tester
 - [siliconetemper (artist)](https://soundcloud.com/siliconetemper) - creator
 - [esofur (programming language)](https://github.com/TaserTheFox/EsoFur-Interpreter) - contributer
+- [james games](https://www.youtube.com/@madeforlosers/) - creator and only person in the project
