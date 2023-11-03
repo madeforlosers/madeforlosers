@@ -8,11 +8,11 @@ my discord is ipod.classic if you wanna friend me
 
 ## boring mumbo jumbo 
 - I code in HTML, CSS, Javascript, Node.js, Python, Java, BASIC, Lua, Scratch, and some others
-
+- I code golf (very badly)
 - Yes, I'm a furry. shut up.
 - I sometimes make bad games in roblox when I get bored
 - I live on saturn
-- I have a habit of using the weirdest formatting (github users HATE ME!!)
+- I have a habit of using the weirdest formatting (stackoverflow users HATE ME!!)
 
 ## friends
 you should check out these people:
