@@ -4,8 +4,6 @@ I'm a 15 year old that likes to code.
 
 I'm non binary, she/they
 
-my discord is ipod.classic if you wanna friend me
-
 ## boring mumbo jumbo 
 - I code in HTML, CSS, Javascript, Node.js, Python, Java, BASIC, Lua, Scratch, and some others
 - I code golf (very badly)
