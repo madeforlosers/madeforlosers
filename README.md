@@ -18,7 +18,8 @@ admin @ TheBlkBox
 you should check out these people:
 
 - [jumbledFox](https://github.com/jumbledFox) cool fox that makes cool stuff
-- [blockyheadman](https://github.com/blockyheadman) robot dude 
+- [blockyheadman](https://github.com/blockyheadman) robot dude
+- [mss7035](https://github.com/mss7035) head admin @ theblkbox and codes cool stuff
 
 ## projects i was apart of / helped in
 - Yen (a small animated series on an indefinite hold) - co-creator, voice actor, character designer, scriptwriter
