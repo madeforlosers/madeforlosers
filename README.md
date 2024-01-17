@@ -24,8 +24,7 @@ you should check out these people:
 - "james music" (artist) 
 - My Body Not Yours (comic) 
 - Archoo (discord bot)
-- [james games](https://www.youtube.com/@madeforlosers/) 
-- [siliconetemper (artist)](https://soundcloud.com/siliconetemper) (along with a friend)
+- siliconetemper (artist)
 - Pandora's Mario Paint Box (clone of pandora's box) - creator
 
 
