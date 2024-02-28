@@ -1,6 +1,6 @@
 #  madeforlosers
 
-I'm a 15 year old that likes to code. 
+I'm a 16 year old that likes to code. 
 
 I'm non binary, she/they
 
