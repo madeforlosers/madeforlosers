@@ -4,7 +4,7 @@ I'm a 16 year old that likes to code.
 
 I'm non binary, she/they
 
-admin @ TheBlkBox
+administrator of [@theblkbox-official](https://github.com/theblkbox-official)
 
 ## boring mumbo jumbo 
 - I code in HTML, CSS, Javascript, Node.js, Python, Java, BASIC, Lua, Scratch, and some others
