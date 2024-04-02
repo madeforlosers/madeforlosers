@@ -25,7 +25,7 @@ If you need to contact me, find me on discord at `ipod.classic`. I rarely read m
   - SmileBASIC
   - Brainf*** (i only know how to make it say words)
 - I code golf
-- I can somewhat draw and do graphic design
+- I can somewhat draw and do graphic design (badly)
 
 ## What I've done / currently doing
 
