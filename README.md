@@ -35,7 +35,7 @@ If you need to contact me, find me on discord at `ipod.classic`. I rarely read m
 - code golfing on Code Golf SE and code.golf
 - making chiptune music under the name "siliconetemper"
 - contributed to [Esofur](https://github.com/TaserTheFox/EsoFur-Interpreter)
-- voice acted as a narrator in an upcoming game and briefly in an episode of The Curby Show
+- voice acted briefly in an episode of The Curby Show
 - making youtube videos under the name "james games"
 - coded games in TI-84 basic (although they suck)
 - made a program that can turn an image into a TI-84 program that draws the image
