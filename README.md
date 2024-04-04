@@ -14,12 +14,12 @@ If you need to contact me, find me on discord at `ipod.classic`. I rarely read m
   - HTML + CSS + JS (webdev)
   - Node.js
   - TI-84 BASIC
-  - FreeBASIC
   - Java
-  - AWK
   - Python
-  - Lua (roblox)
+  - FreeBASIC
   - Bash
+  - Lua (roblox)
+  - AWK
   - COBOL
   - Fortran
   - SmileBASIC
