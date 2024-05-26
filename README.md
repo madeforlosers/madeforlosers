@@ -2,8 +2,6 @@
 
 I'm a 16 year old that likes to code. 
 
-I'm non binary, she/they
-
 administrator of [@theblkbox-official](https://github.com/theblkbox-official)
 
 If you need to contact me, find me on discord at `ipod.classic`. I rarely read my e-mails.
