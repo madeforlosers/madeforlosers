@@ -14,14 +14,15 @@ If you need to contact me, find me on discord at `ipod.classic`. I rarely read m
   - TI-84 BASIC
   - Java
   - Python
+  - Casio BASIC
   - FreeBASIC
   - Bash
   - Lua (roblox)
   - AWK
   - COBOL
+  - Brainf***
   - Fortran
   - SmileBASIC
-  - Brainf*** (i only know how to make it say words)
 - I code golf
 - I can somewhat draw and do graphic design (badly)
 
@@ -36,7 +37,6 @@ If you need to contact me, find me on discord at `ipod.classic`. I rarely read m
 - voice acted briefly in an episode of The Curby Show
 - making youtube videos under the name "james games"
 - coded games in TI-84 basic (although they suck)
-- made a program that can turn an image into a TI-84 program that draws the image
 
 
 
