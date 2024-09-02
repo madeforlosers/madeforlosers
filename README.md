@@ -4,7 +4,7 @@ I'm a 16 year old that likes to code.
 
 administrator of [@theblkbox-official](https://github.com/theblkbox-official)
 
-If you need to contact me, find me on discord at `ipod.classic`. I rarely read my e-mails.
+If you need to contact me, good luck. I rarely read my e-mails.
 
 
 ## My abilities that I can think of
