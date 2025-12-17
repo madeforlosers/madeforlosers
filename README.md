@@ -1,6 +1,8 @@
 #  madeforlosers
 
-I'm a 17 year old that likes to code. 
+I'm a 17 year old that likes to code.
+
+Most of my projects that you see are done in Node.js. I love node.js <3
 
 administrator of [@theblkbox-official](https://github.com/theblkbox-official)
 
@@ -8,23 +10,17 @@ If you need to contact me, good luck. I rarely read my e-mails.
 
 
 ## My abilities that I can think of
-- I code in ... (sorted by most knowledgable to least knowledgable)
+- I code in:
   - HTML + CSS + JS (webdev)
   - Node.js
-  - TI-84 BASIC
   - Java
   - Python
+  - TI-84 BASIC
   - Casio BASIC
   - FreeBASIC
-  - Bash
-  - Lua (roblox)
-  - AWK
-  - COBOL
-  - Brainf***
-  - Fortran
-  - SmileBASIC
 - I code golf
 - I can somewhat draw and do graphic design (badly)
+- i make music
 
 ## What I've done / currently doing
 
